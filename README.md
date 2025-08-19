@@ -8,8 +8,11 @@
 ## 💡 Skills
 
 ⚡Data Analysis & Visualization: Power BI, Power Query, Excel
+
 ⚡Databases: SQL, MYSQL
+
 ⚡Programming & Machine Learning: Python (Pandas, NumPy, Seaborn, Scikit-Learn), Machine Learning, ETL & Data Modeling
+
 
 ---
 
