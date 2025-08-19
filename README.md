@@ -24,7 +24,7 @@
 ---
 
 ## 📫 How to Reach Me
-- [LinkedIn](YOUR_LINKEDIN_URL)  
+- [LinkedIn](https://www.linkedin.com/in/sepidehhayati/) 
 - [GitHub](https://www.linkedin.com/in/sepidehhayati/))  
 
 ---
