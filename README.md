@@ -12,7 +12,7 @@
 - Power Query  
 - Excel  
 
-### Databases
+### Databases: SQL, MYSQL
 - SQL  
 - MySQL  
 
@@ -25,7 +25,7 @@
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sepidehhayati/) 
-- [GitHub](https://www.linkedin.com/in/sepidehhayati/))  
+  
 
 ---
 
