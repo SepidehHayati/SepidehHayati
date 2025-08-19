@@ -11,7 +11,7 @@
 
 ⚡**Databases**: SQL, MYSQL
 
-⚡**Programming & Machine Learning**: Python (Pandas, NumPy, Seaborn, Scikit-Learn), Machine Learning, ETL & Data Modeling
+⚡**Programming & Machine Learning**: Python (Pandas, NumPy, Mathplotlib, Seaborn, Scikit-Learn), Machine Learning, ETL & Data Modeling
 
 
 ---
