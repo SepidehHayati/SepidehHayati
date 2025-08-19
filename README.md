@@ -30,5 +30,5 @@
 ---
 
 ## 📊 GitHub Stats
-![Sepideh's GitHub stats](https://github-readme-stats.vercel.app/api?SepidehHayati=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Sepideh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepideh-hayati&show_icons=true&theme=radical)
 
