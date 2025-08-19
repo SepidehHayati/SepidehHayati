@@ -30,5 +30,5 @@
 ---
 
 ## 📊 GitHub Stats
-![Sepideh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepideh-hayati&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SepidehHayati&theme=default)  
 
