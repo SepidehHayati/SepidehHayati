@@ -1,15 +1,33 @@
-## Hi there 👋 I'm Sepideh Hayati  
+# Hi there 👋 I'm Sepideh Hayati
 
-🎓 Master’s student in Computer Science at the University of Pavia
-🚀 Experienced Data Analyst | Data Science Enthusiast
+🎓 **Master’s Student in Computer Science** at the University of Pavia  
+🚀 **Experienced Data Analyst | Data Science Enthusiast**
 
-Skills:
-⚡Data Analysis & Visualization: Power BI, Power Query, Excel
-⚡Databases: SQL, MySQL
-⚡Programming & Machine Learning: Python (Pandas, NumPy, Seaborn, Scikit-Learn), Machine Learning, ETL, Data Modeling
-⚡How to reach me: [LinkedIn](https://www.linkedin.com/in/sepideh-hayati) | [GitHub](https://github.com/SepidehHayati)
+---
 
+## 💡 Skills
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SepidehHayati&theme=default)  
+### Data Analysis & Visualization
+- Power BI  
+- Power Query  
+- Excel  
 
+### Databases
+- SQL  
+- MySQL  
+
+### Programming & Machine Learning
+- Python (Pandas, NumPy, Seaborn, Scikit-Learn)  
+- Machine Learning  
+- ETL & Data Modeling  
+
+---
+
+## 📫 How to Reach Me
+- [LinkedIn](YOUR_LINKEDIN_URL)  
+- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)  
+
+---
+
+## 📊 GitHub Stats
+![Sepideh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
