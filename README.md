@@ -20,8 +20,5 @@
 - [LinkedIn](https://www.linkedin.com/in/sepidehhayati/) 
   
 
----
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SepidehHayati&theme=default)  
 
