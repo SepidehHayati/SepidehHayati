@@ -1,6 +1,6 @@
 # Hi there, I'm Sepideh 
 
-🎓 **Master’s Student in Computer Science** at the University of Pavia  
+🎓 **Master of Computer Engineering**   
 🚀 **Experienced Data Analyst | Data Science Enthusiast**
 
 ---
